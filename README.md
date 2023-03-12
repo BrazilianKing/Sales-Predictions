@@ -31,9 +31,9 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 # Results of Models
 ## The Decision Tree Model was chosen for this set of data
 ## Decision Tree Model Test Scores
-### R^2(R-Squared Score): 0.162
+### R^2(R-Squared Score): 0.594
 
-### This score can be interpreted as saying that our model can account for about 16% of the variation in y_test using the features in X_test.
+### This score can be interpreted as saying that our model can account for about 59% of the variation in y_test using the features in X_test.
 
 ### RMSE(Root Mean Squared Error) : 1091.27
 
